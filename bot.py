@@ -25,7 +25,7 @@ async def start(client, message):
 
 i can convert image to pdf
 
-This bot created by @mrlokaman""",reply_to_message_id = message.message_id ,  reply_markup=InlineKeyboardMarkup(
+Send me the Images in order and click /convert ...⚡️""",reply_to_message_id = message.message_id ,  reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton("🤖 DeV" ,url="https://t.me/Aghin_Khalid_CP") ],
