@@ -28,7 +28,7 @@ i can convert image to pdf
 Send me the Images in order and click /convert ...⚡️""",reply_to_message_id = message.message_id ,  reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🤖 DeV" ,url="https://t.me/Aghin_Khalid_CP") ],
+                    InlineKeyboardButton("Owner" ,url="https://t.me/Aghin_Khalid_CP") ],
                  [InlineKeyboardButton("💬 Support", url="https://t.me/adbzmelikshahbot") ]       ]        ) )
 
 
